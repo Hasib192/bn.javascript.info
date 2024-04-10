@@ -1,21 +1,20 @@
-# Ninja code
+# নিনজা কোড
 
 
-```quote author="Confucius (Analects)"
-Learning without thought is labor lost; thought without learning is perilous.
+```quote author="কনফুসিয়াস (অ্যানালেক্টস)"
+চিন্তা ছাড়া শেখা বৃথা শ্রম; শেখা ছাড়া চিন্তা বিপদজনক।
 ```
 
-Programmer ninjas of the past used these tricks to sharpen the mind of code maintainers.
+অতীতের প্রোগ্রামার নিনজারা কোড মেইন্টেইনারদের মনকে ধার দেওয়ার জন্য এই কৌশলগুলি ব্যবহার করত।
 
-Code review gurus look for them in test tasks.
+কোড রিভিউ গুরুরা এগুলোকে টেস্ট কাজের জন্য খুঁজে।
 
-Novice developers sometimes use them even better than programmer ninjas.
+নতুন ডেভেলপাররা কখনও কখনও এগুলি প্রোগ্রামার নিনজাদের চেয়েও ভাল ব্যবহার করে থাকে।
 
-Read them carefully and find out who you are -- a ninja, a novice, or maybe a code reviewer?
-
+এগুলোকে মনোযোগ সহকারে পড়ুন এবং খুঁজে বের করুন আপনি কে -- একজন নিনজা, একজন নতুন শিক্ষার্থী, অথবা হতে পারে একজন কোড রিভিউয়ার?
 
 ```warn header="Irony detected"
-Many try to follow ninja paths. Few succeed.
+অনেকেই নিনজা পথ অনুসরণ করার চেষ্টা করেন। অল্প কয়েকজনই সফল হয়।
 ```
 
 
