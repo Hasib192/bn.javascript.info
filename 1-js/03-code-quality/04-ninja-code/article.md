@@ -18,7 +18,7 @@
 ```
 
 
-## Brevity is the soul of wit
+## মানিকের খানিক ভালো
 
 Make the code as short as possible. Show how smart you are.
 
