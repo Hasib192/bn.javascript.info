@@ -20,7 +20,6 @@
 
 ## মানিকের খানিক ভালো
 
-Make the code as short as possible. Show how smart you are.
 কোড যতটা সম্ভব ছোট করুন। দেখান আপনি কতটা স্মার্ট।
 
 
