@@ -22,21 +22,20 @@
 
 কোড যতটা সম্ভব ছোট করুন। দেখান আপনি কতটা স্মার্ট।
 
+সূক্ষ্ম ভাষার বৈশিষ্ট্যগুলো দ্বারা নিজেকে পরিচালিত করুন।
 
-Let subtle language features guide you.
-
-For instance, take a look at this ternary operator `'?'`:
+উদাহরণস্বরূপ, এই টারনারি অপারেটরটি দেখুন `'?'`:
 
 ```js
 // taken from a well-known javascript library
 i = i ? i < 0 ? Math.max(0, len + i) : i : 0;
 ```
 
-Cool, right? If you write like that, a developer who comes across this line and tries to understand what is the value of `i` is going to have a merry time. Then come to you, seeking for an answer.
+দারুণ, তাই না? আপনি যদি এরকম করে লিখেন, একজন ডেভেলপার যিনি এই লাইনটি দেখবেন এবং `i` এর ভ্যালু কী তা বোঝার চেষ্টা করবেন তার একটি আনন্দময় সময় কাটবে। তারপর উত্তর খুঁজতে আপনার কাছে আসবে।
 
-Tell them that shorter is always better. Initiate them into the paths of ninja.
+তাদের বলুন যে ছোটই সবসময় ভাল। নিনজার পথে তাদের যাত্রা সূচনা করুন।
 
-## One-letter variables
+## এক-অক্ষরের  ভেরিয়েবলস
 
 ```quote author="Laozi (Tao Te Ching)"
 The Dao hides in wordlessness. Only the Dao is well begun and well
